@@ -1,16 +1,13 @@
 {
-  "main.css": "/static/css/main.bae51ef8.chunk.css",
-  "main.js": "/static/js/main.03aeccd6.chunk.js",
-  "main.js.map": "/static/js/main.03aeccd6.chunk.js.map",
-  "static/css/1.5d0a10d8.chunk.css": "/static/css/1.5d0a10d8.chunk.css",
-  "static/js/1.263a74c6.chunk.js": "/static/js/1.263a74c6.chunk.js",
-  "static/js/1.263a74c6.chunk.js.map": "/static/js/1.263a74c6.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.229c360f.js",
-  "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
-  "static/media/App.css": "/static/media/PressStart2P-Regular.81c0aae9.ttf",
-  "static/css/main.bae51ef8.chunk.css.map": "/static/css/main.bae51ef8.chunk.css.map",
-  "static/css/1.5d0a10d8.chunk.css.map": "/static/css/1.5d0a10d8.chunk.css.map",
+  "main.css": "/static/css/main.3edd9d00.chunk.css",
+  "main.js": "/static/js/main.83e2d553.chunk.js",
+  "main.js.map": "/static/js/main.83e2d553.chunk.js.map",
+  "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+  "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+  "static/js/2.ab533eb6.chunk.js": "/static/js/2.ab533eb6.chunk.js",
+  "static/js/2.ab533eb6.chunk.js.map": "/static/js/2.ab533eb6.chunk.js.map",
   "index.html": "/index.html",
-  "precache-manifest.cbbb96bc27010403f44e3ad6973e2adb.js": "/precache-manifest.cbbb96bc27010403f44e3ad6973e2adb.js",
-  "service-worker.js": "/service-worker.js"
+  "precache-manifest.9f64e9fc0ef1b00bffd4b550555a675e.js": "/precache-manifest.9f64e9fc0ef1b00bffd4b550555a675e.js",
+  "service-worker.js": "/service-worker.js",
+  "static/css/main.3edd9d00.chunk.css.map": "/static/css/main.3edd9d00.chunk.css.map"
 }
